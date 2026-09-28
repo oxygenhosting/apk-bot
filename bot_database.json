@@ -1,0 +1,48 @@
+{
+    "users": [
+        8886164132,
+        8765918360,
+        8957927864,
+        8831508637
+    ],
+    "accepted_terms": [
+        8886164132,
+        8957927864,
+        8831508637
+    ],
+    "links": {
+        "proofs": "https://t.me/ffhacks_off",
+        "admin_dm": "https://t.me/Ts_hunter01",
+        "limited_bot": "https://t.me/oxyge3n_bot",
+        "dev_dm": "https://t.me/lv_oxyg3n"
+    },
+    "free_files": [],
+    "paid_items": {
+        "xreg": {
+            "title": "\u26a1 X-REG VIP PANEL",
+            "desc": "\ud83c\udfaf High Accuracy Recoil Reducer\n\ud83d\udee1\ufe0f Safe For Main IDs\n\u26a1 100% Anti-Blacklist",
+            "price": "\u20b9299 / 7 Days\n\u20b9599 / 30 Days\n\u20b91299 / Lifetime",
+            "media_id": null,
+            "media_type": null
+        },
+        "aimhack": {
+            "title": "\ud83c\udfaf AUTO AIM & TRACKING",
+            "desc": "\ud83d\udd25 Instant Bullet Track\n\ud83c\udff9 360\u00b0 Silent Aim\n\u26a1 Stream Proof Support",
+            "price": "\u20b9399 / 7 Days\n\u20b9799 / 30 Days\n\u20b91599 / Lifetime",
+            "media_id": null,
+            "media_type": null
+        },
+        "troll": {
+            "title": "\ud83c\udfad TROLL & GHOST MODS",
+            "desc": "\ud83d\udc7b Ghost Invisible Walk\n\ud83d\ude80 Super Speed Run\n\ud83d\udca3 Instant Kill Tricks",
+            "price": "\u2714 1 Hour \u2014 \u20b939.00 \n\u2714 3 Hours \u2014 \u20b957.00 \n\u2714 6 Hours \u2014 \u20b974.00 \n\u2714 12 Hours \u2014 \u20b9107.00 \n\u2714 1 Day \u2014 \u20b9150.00",
+            "media_id": "BAACAgEAAxkBAAM6arn2Brf5g2lGvBpASKZEORuE91EAAq0IAALiN9BFKgETAAGyFtUVPQQ",
+            "media_type": "video"
+        }
+    },
+    "user_lang": {
+        "8886164132": "en",
+        "8957927864": "en",
+        "8831508637": "en"
+    }
+}
